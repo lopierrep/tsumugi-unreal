@@ -1,0 +1,13 @@
+{
+  "name": "tsumugi-unreal",
+  "version": "0.1.0",
+  "description": "Skills para proyectos de Unreal Engine 5: perf con múltiples cámaras simultáneas, troubleshooting de sensores multi-slot async readback, setup de Vulkan/Docker en Linux, spawn NED + terrain probing.",
+  "author": {
+    "name": "Christian",
+    "email": "christian@deadmonkey.co"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lopierrep/tsumugi-unreal",
+  "repository": "https://github.com/lopierrep/tsumugi-unreal",
+  "keywords": ["unreal-engine", "ue5", "performance", "rendering", "simulation", "drone", "sensors"]
+}
